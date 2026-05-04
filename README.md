@@ -5,7 +5,7 @@ A high-performance, full-stack **Next.js 14** application engineered for the mod
 ## 🚀 Live Links
 
 * **Production Application (Vercel):** [https://eco-swap-omega.vercel.app/](https://eco-swap-omega.vercel.app/)
-* **GitHub Repository:** [https://github.com/islamrakibul9274/EcoSwap](https://github.com/islamrakibul9274/eco-swap)
+* **GitHub Repository:** [https://github.com/islamrakibul9274/EcoSwap](https://github.com/islamrakibul9274/EcoSwap)
 
 ---
 
